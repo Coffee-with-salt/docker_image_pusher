@@ -1,5 +1,5 @@
 #支持私库
-mongo:7.0.11
+docker.io/library/mongo:7.0.11-jammy
 #支持指定架构
 #--platform=linux/amd64
 #xiaoyaliu/alist
