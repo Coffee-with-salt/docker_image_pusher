@@ -1,5 +1,5 @@
 #支持私库
-whyour/qinglong:debian
+rustdesk/rustdesk-server
 #支持指定架构
 #--platform=linux/amd64
 #xiaoyaliu/alist
