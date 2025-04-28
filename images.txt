@@ -1,5 +1,5 @@
 #支持私库
-jxxghp/moviepilot-v2:latest
+whyour/qinglong:debian
 #支持指定架构
 #--platform=linux/amd64
 #xiaoyaliu/alist
